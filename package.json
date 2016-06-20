@@ -1,0 +1,22 @@
+{
+  "name": "log-color-date",
+  "version": "1.0.0",
+  "description": "Overrides the default console.log, console.eror, console.warn, console.info and adds a timstamp at the start",
+  "main": "./lib/log-color-date.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martijnvanduijneveldt/log-color-date.git"
+  },
+  "keywords": [
+    "console",
+    "color",
+    "date",
+    "override"
+  ],
+  "author": "Martijn van Duijneveldt <martijnvanduijneveldt@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/martijnvanduijneveldt/log-color-date/issues"
+  },
+  "homepage": "https://github.com/martijnvanduijneveldt/log-color-date#readme"
+}
