@@ -1,5 +1,5 @@
 # Log-color-date
-This module overrides the default `console.log`,`console.info`,`console.warn` and console.error` and adds a timestamp in front of the line.
+This module overrides the default `console.log`,`console.info`,`console.warn` and `console.error` and adds a timestamp in front of the line.
 
 ## Installation
 Install with `npm`:
