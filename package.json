@@ -1,6 +1,6 @@
 {
   "name": "log-color-date",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Overrides the default console.log, console.eror, console.warn, console.info and adds a timstamp at the start",
   "main": "./lib/log-color-date.js",
   "repository": {
